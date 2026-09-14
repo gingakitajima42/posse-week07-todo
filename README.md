@@ -51,3 +51,15 @@ AIに同じ要件で実装させた場合も、`createElement`、`appendChild`�
 - `index.html`：画面の構造
 - `style.css`：レスポンシブな見た目
 - `script.js`：DOM操作とイベント処理
+## 提出チェック
+- 新しいHTMLファイルを作成した（Week06のページへの追記ではない）
+- querySelectorで要素を取得した
+- addEventListener('click', ...) でイベントを登録した
+- classList.toggleでスタイルを切り替えた
+- input.valueで入力値を取得した
+- 空のテキストは追加されないようにした
+- DevToolsでスマホ幅（375px）とPC幅（1280px）の両方で表示確認した
+- GitHubにpushした
+- PR本文に処理の流れと詰まった箇所を書いた
+- PR本文に判断の記録（選択肢A/B・採用理由）を書いた
+- AIとの比較を記録した
